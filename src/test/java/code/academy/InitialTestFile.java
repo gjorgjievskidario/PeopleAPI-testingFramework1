@@ -1,6 +1,7 @@
 package code.academy;
 
-import code.academy.client.client.PeopleApiClient;
+import code.academy.client.PeopleApiClient;
+
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpHeaders;
